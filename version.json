@@ -4,5 +4,5 @@
   "apkUrl": "https://github.com/OwakoSayi/gigzi-releases/releases/download/v2/gigzi-driver-1.0.1.apk",
   "releaseNotes": "Test update",
   "forceUpdate": false,
-  "minSupportedVersionCode": 1
+  "minSupportedVersionCode": 2
 }
