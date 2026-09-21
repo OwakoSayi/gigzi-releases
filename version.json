@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/OwakoSayi/gigzi-releases/releases/download/v1/gigzi-driver-1.0.apk",
-  "releaseNotes": "First beta",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/OwakoSayi/gigzi-releases/releases/download/v2/gigzi-driver-1.0.1.apk",
+  "releaseNotes": "Test update",
   "forceUpdate": false,
   "minSupportedVersionCode": 1
 }
