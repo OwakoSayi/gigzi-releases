@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.0.2",
-  "apkUrl": "https://github.com/OwakoSayi/gigzi-releases/releases/download/v3/gigzi-driver-1.0.2.apk",
+  "apkUrl": "https://github.com/OwakoSayi/gigzi-releases/releases/latest/download/gigzi-driver.apk",
   "releaseNotes": "Better Bolt support. Payments hidden during the free beta.",
   "forceUpdate": false,
   "minSupportedVersionCode": 2
