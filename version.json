@@ -4,5 +4,5 @@
   "apkUrl": "https://github.com/OwakoSayi/gigzi-releases/releases/latest/download/gigzi-driver.apk",
   "releaseNotes": "Better ride checker capabilities and better billing",
   "forceUpdate": false,
-  "minSupportedVersionCode": 5
+  "minSupportedVersionCode": 4
 }
