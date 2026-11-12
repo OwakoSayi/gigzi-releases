@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
+  "versionCode": 8,
+  "versionName": "1.0.7",
   "apkUrl": "https://github.com/OwakoSayi/gigzi-releases/releases/latest/download/gigzi-driver.apk",
   "releaseNotes": "Better ride checker capabilities and better safety features",
   "forceUpdate": false,
-  "minSupportedVersionCode": 7
+  "minSupportedVersionCode": 8
 }
